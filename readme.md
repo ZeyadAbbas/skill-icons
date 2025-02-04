@@ -3,7 +3,8 @@
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-<h4 align="center"><em>This is a fork of the <a href="https://github.com/tandpfun/skill-icons">original skill icons</a> since it has been abandoned.</em></3>
+<h4 align="center"><em>This is a fork of the <a href="https://github.com/tandpfun/skill-icons">original skill icons</a> since it has been abandoned.</em></h4>
+<h5 align="center">In process of bringing it back</p>
 <hr>
 
 
